@@ -1,9 +1,9 @@
-# Permis de construire facile
+# Déclaration préalable de travaux
 
-> Faciliter le dépôt d'une demande de permis de construire
+> Faciliter le dépôt d'une déclaration préalable de travaux en ligne
 
 ## Sous-projets
 
-- [permis-construire-facile-ui](https://github.com/MTES-MCT/permis-construire-facile-ui): frontend
-- [permis-construire-facile-api](https://github.com/MTES-MCT/permis-construire-facile-ui): backend
-- [permis-construire-facile-infra](https://github.com/MTES-MCT/permis-construire-facile-infra): infrastructure de déploiement
+- [declaration-travaux-ui](https://github.com/MTES-MCT/declaration-travaux-ui): frontend
+- [declaration-travaux-api](https://github.com/MTES-MCT/declaration-travaux-api): backend
+- [declaration-travaux-infra](https://github.com/MTES-MCT/declaration-travaux-infra): infrastructure de déploiement
