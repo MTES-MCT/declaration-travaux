@@ -1,9 +1,9 @@
-# Déclaration préalable de travaux
+# RIEAU
 
-> Faciliter le dépôt d'une déclaration préalable de travaux en ligne
+> Réception Informations et Echanges pour les Autorisations d’Urbanisme
 
 ## Sous-projets
 
-- [declaration-travaux-ui](https://github.com/MTES-MCT/declaration-travaux-ui): frontend
-- [declaration-travaux-api](https://github.com/MTES-MCT/declaration-travaux-api): backend
-- [declaration-travaux-infra](https://github.com/MTES-MCT/declaration-travaux-infra): infrastructure de déploiement
+- [rieau-ui](https://github.com/MTES-MCT/rieau-ui): frontend
+- [rieau-api](https://github.com/MTES-MCT/rieau-api): backend
+- [rieau-infra](https://github.com/MTES-MCT/rieau-infra): infrastructure de déploiement
