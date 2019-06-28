@@ -1,6 +1,6 @@
-# RIEAU
+# RIE'AU
 
-> Réception Informations et Echanges pour les Autorisations d’Urbanisme
+> Réception, Informations et Échanges pour les Autorisations d’Urbanisme
 
 ## Sous-projets
 
